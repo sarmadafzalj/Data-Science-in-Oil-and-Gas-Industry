@@ -1,7 +1,10 @@
 # Data-Science-in-Oil-and-Gas-Industry
 You will find several interesting Data Science projects in the field of Oil and Gas Industry. From EDA and plotting well profiles to running predictive machine learning models
 
+![Drilling Rig](oil_rig.jpeg)
+
 ## Here's a list of links to all projects
+- <a href="https://github.com/sarmadafzalj/Data-Science-in-Oil-and-Gas-Industry/tree/main/Plotting%20Drilling%20and%20Wireline%20Logs%20in%20Python" >Plotting Wireline and Petrophysical logs using Plotly in Python</a>
 - <a href="https://github.com/sarmadafzalj/Data-Science-in-Oil-and-Gas-Industry/tree/main/Plotting%20Well%20Borehole%20in%203D" >Plotting a 3D well borehole profile using Plotly in Python</a>
 
 ## Reach out to me
