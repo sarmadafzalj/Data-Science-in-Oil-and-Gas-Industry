@@ -1,6 +1,6 @@
 # Learn How to Shade and Plot Wireline Caliper Log in Matplotlib Python
 
-![Well Wireline Logs](images/washout.gif)
+![Well Wireline Logs](images/washout.png)
 
 ## Introduction
 In this repository, you will find Python code to plot oil and gas well borehole profile with Caliper data for actual diameter against bit size and color the washouts and under-gauge areas.
