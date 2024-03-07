@@ -3,7 +3,7 @@
 ## Overview
 This Python script demonstrates how to plot a composite wireline petrophysical log using Matplotlib. The script focuses on visualizing three tracks of data: Borehole, Resistivity, and Neutron Density logs.
 
-![Drilling Rig](images/log.png)
+![Drilling Rig](Images/log.png)
 
 ## Importance of Petrophysical Well Logs
 Petrophysical well logs are crucial for understanding subsurface formations and identifying hydrocarbon zones. These logs, recorded using tools in the wellbore, provide valuable insights into formation characteristics.
