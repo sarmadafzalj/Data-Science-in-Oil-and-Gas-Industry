@@ -11,7 +11,7 @@ Predicting sonic logs using AI/ML offers a safer, more efficient alternative to 
 ## Data Source
 The script utilizes well log data for Volvo Field downloaded from open data in Equinor website, converted from LAS to CSV format.
 link: https://www.equinor.com/how-and-why/digitalisation-in-our-dna/volve-field-data-village-download
-We are going to use data for well 15/9-F-11A as our training set and well 15_9-F-11B as test dataset which does not have DT channel.
+We are going to use data for well 15/9-F-11A as our training set and well 15_9-F-1A as test dataset.
 
 ## Reach out to me
 - <i>Author: <b>Sarmad Afzal</b></i>
