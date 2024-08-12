@@ -18,5 +18,5 @@ We are going to use data for well 15/9-F-11A as our training set and well 15_9-F
 - <i>Linkedin: https://www.linkedin.com/in/sarmadafzal/</i>
 - <i>Github: https://github.com/sarmadafzalj</i>
 - <i>Youtube: https://www.youtube.com/@sarmadafzalj</i>
-- <i>Medium Blog: https://medium.com/@sarmadafzalj</i>
+- <i>Medium Blog: https://medium.com/@sarmadafzalj/predicting-well-borehole-sonic-log-63a6f3f8077f</i>
 ---
